@@ -1,0 +1,11 @@
+*.pdf
+*.csv
+# Ignore Python virtual environment
+venv
+.env
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+pyvenv.cfg
+*.png
+*.jpg
